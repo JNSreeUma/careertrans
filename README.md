@@ -18,8 +18,18 @@ A full-stack web application to manage your career journey with tasks, skills, g
 - Authentication: JWT
 
 ## 📸 Screenshots
+Dashboard
+https://github.com/user-attachments/assets/d3976dd2-14fb-4662-8490-0ce29b23b993
 
-(Add your screenshots here later)
+My Planner
+https://github.com/user-attachments/assets/dbcccc1b-8a21-4d9a-9a99-872a17e3a19e
+
+Job Tracker
+https://github.com/user-attachments/assets/c2f0981c-0143-4cd3-82e6-6ccd7c8c041c
+
+
+
+
 
 ## 🚀 Getting Started
 
